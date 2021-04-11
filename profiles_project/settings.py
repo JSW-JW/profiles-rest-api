@@ -25,7 +25,7 @@ SECRET_KEY = 'l7py!2l5)buekd0o)0&u7ek4+f94^+7ll1-jww6n$86$)4k0id'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ubuntu-bionic', 'localhost']
 
 
 # Application definition
